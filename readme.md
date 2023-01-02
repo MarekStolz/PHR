@@ -14,7 +14,7 @@ __1.1.2 Hráč postupuje do dalších levelů a vylepšuje vůz
 
 3. Grafika
 
-Postavy jsou kresleny pomocí Pixel-art online creator na stránce: (https://www.pixilart.com/) na PC
+Jeden obrázek je vypůjčený druhý je vyfocený a oříznutý
 
 
 
