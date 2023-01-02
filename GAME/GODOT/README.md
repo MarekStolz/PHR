@@ -1,3 +1,2 @@
-# MATH API
-Verze 0 az 3 podle zadání
+# Hra v Godot enginu
 ### Štolz
