@@ -27,6 +27,5 @@ Ve hře bude jedna hudba, jenon dalším levelem bude zrychlovat.
 
 
 6. Godot Game engine
-7. 
 Ukázka z Prototypu je ve složce game
 
