@@ -13,6 +13,7 @@ Hra se ovládá šipkami či "wsad". Hráč se pomocí auta snaží překonat te
 1.1.2 Hráč postupuje do dalších levelů a vylepšuje vůz
 
 3. Grafika
+
 Modely aut jsou v dělány v nástroji GIMP. 
 
 4. Zvuky
@@ -27,5 +28,6 @@ Ve hře bude jedna hudba, jenon dalším levelem bude zrychlovat.
 
 
 6. Godot Game engine
+7. 
 Ukázka z Prototypu je ve složce game
 
