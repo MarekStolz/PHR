@@ -9,8 +9,8 @@ __Hratelnost:__
 
 Hra se ovládá šipkami či "wsad". Hráč se pomocí auta snaží překonat terén a překážky. Díky různé gravitaci se snaží ve vzduchu i balancovat, pokud se mu to nepovede a auto bude převráceno hra se ukončí a skore se připíše a zároveň se hra spustí znovu.
 
-__1.1.1 Hráč ovládá vozidlo a snaží se překonat kopce a překážky
-__1.1.2 Hráč postupuje do dalších levelů a vylepšuje vůz
+1.1.1 Hráč ovládá vozidlo a snaží se překonat kopce a překážky
+1.1.2 Hráč postupuje do dalších levelů a vylepšuje vůz
 
 3. Grafika
 Modely aut jsou v dělány v nástroji GIMP. 
