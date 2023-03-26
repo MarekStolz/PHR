@@ -27,6 +27,6 @@ Zatím je ve hře moje vlastní hudba, kterou jsem vytvořil přes sountrap. Tut
 
 6. __Godot Game engine__
 Ukázka z Prototypu je ve složce game
-
+V na vytvoření terénu jsem si stíhl plugin SmartShape2D, který zjednodušuje celý proces vytváření. Bohužel v Godot 4 se plugin ještě nenachází.
 7. __Propagace__
 Zde ukázka mého raklamního baneru
