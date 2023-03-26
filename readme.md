@@ -34,3 +34,5 @@ Ukázka z Prototypu je ve složce game
 V na vytvoření terénu jsem si stíhl plugin SmartShape2D, který zjednodušuje celý proces vytváření. Bohužel v Godot 4 se plugin ještě nenachází.
 7. __Propagace__
 Zde ukázka mého raklamního baneru
+![CAR MANIAC (1)](https://user-images.githubusercontent.com/81717582/227798344-c19d5f35-b2f9-4959-8b03-9e01f74f6b61.png)
+![CAR MANIAC](https://user-images.githubusercontent.com/81717582/227798347-222111fc-520c-4abd-9e10-9ef1a7759e1c.png)
