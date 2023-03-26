@@ -31,3 +31,4 @@ Ve hře bude jedna hudba, jenon dalším levelem bude zrychlovat.
 
 Ukázka z Prototypu je ve složce game
 
+6. __Propagace__
