@@ -14,6 +14,9 @@ Zatím hráč pouze sbírá mince
 
 3. __Grafika__
 Model auta a terénu jsou v dělá v nástroji GIMP. Také dolaďován v online editorech.   
+Auto ![Car](https://user-images.githubusercontent.com/81717582/227797471-18de22ff-f827-48a7-9c88-233d4bfa243b.png)
+Kolo ![Wheel](https://user-images.githubusercontent.com/81717582/227797478-58379c5b-410c-4a2f-a692-ab76368c7560.png)
+Mince ![Coin5](https://user-images.githubusercontent.com/81717582/227797488-b3cde172-2796-45cf-aad4-6c73abcc3c11.png)
 
 4. __Zvuky__
 SW: Audacity, HW: PC, telefon, mikrofon
