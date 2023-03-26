@@ -1,4 +1,4 @@
-# Game-Truck-Mania
+# Game-CAR-MANIAC
 Počítčová hra vytvořená v Godot game enginu.
 
 # Tvorba počítačové hry
