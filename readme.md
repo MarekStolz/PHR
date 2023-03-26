@@ -7,8 +7,8 @@ Počítčová hra vytvořená v Godot game enginu.
 
 __Hratelnost:__ 
 
-Hra se ovládá šipkami či "wsad". Hráč se pomocí auta snaží překonat terén a překážky. Díky různé gravitaci se snaží ve vzduchu i balancovat, pokud se mu to nepovede a auto bude převráceno hra se ukončí. Hráč bude sbírat různé bonusové body. Také bude čelit problému s doplňováním nádrže a to přejetí ikonky kanistru.
-
+Hra se ovládá šipkami či "wsad". Hráč se pomocí auta snaží překonat terén a překážky. Díky různé gravitaci se snaží ve vzduchu i balancovat, pokud se mu to nepovede a auto bude převráceno hra se ukončí. Hráč bude sbírat různé bonusové body. Také bude čelit problému s doplňováním nádrže a to přejetí ikonky kanystru.
+Zatím hráč pouze sbírá mince
 1.1.1 Hráč ovládá vozidlo a snaží se překonat kopce a překážky
 1.1.2 Hráč postupuje do dalších levelů a vylepšuje vůz
 
