@@ -19,8 +19,8 @@ Model auta a terénu jsou v dělá v nástroji GIMP. Také dolaďován v online 
 SW: Audacity, HW: PC, telefon, mikrofon
 Zvuky aut a terénu budu nahrávat na ručně a uprovovat v nástroji.
 Zvuk motoru auta je nahrán mnou a v mém autě. Jiné zvuky zatím hra neobsahuje.
-5. __Hudba__
 
+5. __Hudba__
 SW: SoundTrap, HW:PC
 Ve hře bude jedna hudba, jenon dalším levelem bude zrychlovat.
 Zatím je ve hře moje vlastní hudba, kterou jsem vytvořil přes sountrap. Tuto hudbu jsem složil už několik let zpátky a až teď jsem jí využil.
