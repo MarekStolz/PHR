@@ -7,28 +7,26 @@ Počítčová hra vytvořená v Godot game enginu.
 
 __Hratelnost:__ 
 
-Hra se ovládá šipkami či "wsad". Hráč se pomocí auta snaží překonat terén a překážky. Díky různé gravitaci se snaží ve vzduchu i balancovat, pokud se mu to nepovede a auto bude převráceno hra se ukončí a skore se připíše a zároveň se hra spustí znovu.
+Hra se ovládá šipkami či "wsad". Hráč se pomocí auta snaží překonat terén a překážky. Díky různé gravitaci se snaží ve vzduchu i balancovat, pokud se mu to nepovede a auto bude převráceno hra se ukončí. Hráč bude sbírat různé bonusové body. Také bude čelit problému s doplňováním nádrže a to přejetí ikonky kanistru.
 
 1.1.1 Hráč ovládá vozidlo a snaží se překonat kopce a překážky
 1.1.2 Hráč postupuje do dalších levelů a vylepšuje vůz
 
 3. __Grafika__
-
-Modely aut jsou v dělány v nástroji GIMP. 
+Model auta a terénu jsou v dělá v nástroji GIMP. Také dolaďován v online editorech.   
 
 4. __Zvuky__
-
 SW: Audacity, HW: PC, telefon, mikrofon
 Zvuky aut a terénu budu nahrávat na ručně a uprovovat v nástroji.
-
+Zvuk motoru auta je nahrán mnou a v mém autě. Jiné zvuky zatím hra neobsahuje.
 5. __Hudba__
 
-SW: LMMS, HW:PC
+SW: SoundTrap, HW:PC
 Ve hře bude jedna hudba, jenon dalším levelem bude zrychlovat.
-
+Zatím je ve hře moje vlastní hudba, kterou jsem vytvořil přes sountrap. Tuto hudbu jsem složil už několik let zpátky a až teď jsem jí využil.
 
 6. __Godot Game engine__
-
 Ukázka z Prototypu je ve složce game
 
-6. __Propagace__
+7. __Propagace__
+Zde ukázka mého raklamního baneru
